@@ -1,0 +1,237 @@
+{
+  "cars": [
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "FERRARI",
+      "year": "2023",
+      "type": "Automatic",
+      "kms": "0",
+      "desc": "New ferrai",
+      "fuel": "Diesel",
+      "price": "2000000",
+      "id": 3
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 4
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "FERRARI",
+      "year": "2023",
+      "type": "Automatic",
+      "kms": "0",
+      "desc": "New ferrai",
+      "fuel": "Diesel",
+      "price": "2000000",
+      "id": 5
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 6
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "FERRARI",
+      "year": "2023",
+      "type": "Automatic",
+      "kms": "0",
+      "desc": "New ferrai",
+      "fuel": "Diesel",
+      "price": "2000000",
+      "id": 7
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 8
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "FERRARI",
+      "year": "2023",
+      "type": "Automatic",
+      "kms": "0",
+      "desc": "New ferrai",
+      "fuel": "Diesel",
+      "price": "2000000",
+      "id": 9
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 10
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2021",
+      "type": "Automatic",
+      "kms": "4588",
+      "desc": "Ferrari in new condition",
+      "fuel": "Petrol",
+      "price": "12354",
+      "id": 11
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2021",
+      "type": "Manual",
+      "kms": "5467",
+      "desc": "New car",
+      "fuel": "Diesel",
+      "price": "5678945",
+      "id": 12
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 2
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "FERRARI",
+      "year": "2023",
+      "type": "Automatic",
+      "kms": "0",
+      "desc": "New ferrai",
+      "fuel": "Diesel",
+      "price": "2000000",
+      "id": 7
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "FERRARI",
+      "year": "2023",
+      "type": "Automatic",
+      "kms": "0",
+      "desc": "New ferrai",
+      "fuel": "Diesel",
+      "price": "2000000",
+      "id": 3
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 4
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "FERRARI",
+      "year": "2023",
+      "type": "Automatic",
+      "kms": "0",
+      "desc": "New ferrai",
+      "fuel": "Diesel",
+      "price": "2000000",
+      "id": 5
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 6
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 8
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "FERRARI",
+      "year": "2023",
+      "type": "Automatic",
+      "kms": "0",
+      "desc": "New ferrai",
+      "fuel": "Diesel",
+      "price": "2000000",
+      "id": 9
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2022",
+      "type": "Automatic",
+      "kms": "555",
+      "desc": "Range rover in new shape",
+      "fuel": "Petrol",
+      "price": "500000",
+      "id": 10
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmVycmFyaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2021",
+      "type": "Automatic",
+      "kms": "4588",
+      "desc": "Ferrari in new condition",
+      "fuel": "Petrol",
+      "price": "12354",
+      "id": 11
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1549632891-a0bea6d0355b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+      "brand": "RANGE ROVER",
+      "year": "2021",
+      "type": "Manual",
+      "kms": "5467",
+      "desc": "New car",
+      "fuel": "Diesel",
+      "price": "5678945",
+      "id": 12
+    }
+  ]
+}
